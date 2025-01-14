@@ -1,0 +1,10 @@
+# WARNING: Never edit this file.
+# It will be overwritten when translations are pulled from Crowdin.
+#
+# To work with us on translations, join this project:
+# https://translate.discourse.org/
+
+hu:
+  search_banner:
+    headline: "Üdvözöljük közösségünkben"
+    subhead: "Örülünk, hogy itt van. Ha segítségre van szüksége, keressen, mielőtt létrehoz egy bejegyzést."
