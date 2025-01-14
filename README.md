@@ -4,7 +4,7 @@ By default this banner appears on all top-level topic pages (latest/new/unread/t
 
 ![screenshot](https://user-images.githubusercontent.com/5862206/214549198-419cb28d-efea-43a3-a273-9fd9617de030.png)
 
-:building_construction: [Github repo](https://github.com/discourse/discourse-search-banner): `https://github.com/discourse/discourse-search-banner`
+:building_construction: [Github repo](https://github.com/GHOST117s/Seach_banner): `https://github.com/GHOST117s/Seach_banner`
 
 :telescope: [Preview it on theme creator](https://theme-creator.discourse.org/theme/awesomerobot/discourse-search-banner)
 
